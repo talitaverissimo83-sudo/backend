@@ -3,7 +3,7 @@
 // calcule e exiba a idade no(a) console
 
 var anoAtual = 2026;
-var anoNascimento = 2005;
+var anoNascimento = 2009;
 var idade = anoAtual - anoNascimento;
 
 console.log(idade);
